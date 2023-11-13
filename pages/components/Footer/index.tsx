@@ -40,8 +40,10 @@ const footer = () => {
                     {/* COLUMN-1 */}
 
                     <div className='col-span-4'>
-                        <h3 className='text-white text-4xl font-semibold leading-9 mb-4 lg:mb-20'> Desgy Solutions</h3>
-                        <div className='flex gap-4'>
+                        <h3 className='text-white text-4xl font-semibold leading-9 mb-4 lg:mb-20'> TechDNA.Com</h3>
+                        <span  className='text-white text-2xl font-semibold leading-9 mb-4 lg:mb-20'>A Unit Of Agroha Tech Ventures Pvt. Ltd.</span><br/>
+                        <span  className='text-white text-1xl font-semibold'>Reg. Address: D1, Temple, Vishvavidlya Puri Tonk Road, Jaipur, Rajasthan</span>
+                        {/*  <div className='flex gap-4'>  
                             <div className='footer-icons'>
                                 <Link href="https://facebook.com"><Image src={'/images/footer/vec.svg'} alt="facebook" width={15} height={20} /></Link>
                             </div>
@@ -51,12 +53,15 @@ const footer = () => {
                             <div className='footer-icons'>
                                 <Link href="https://instagram.com"><Image src={'/images/footer/instagram.svg'} alt="instagram" width={20} height={20} /></Link>
                             </div>
-                        </div>
+                        </div>*/}
                     </div>
 
                     {/* CLOUMN-2/3 */}
+<div className='col-span-4'> <h4  className='text-white text-1xl font-semibold'>CIN: U46512RJ2023PTC087178</h4> <h4  className='text-white text-1xl font-semibold'>GST: U46512RJ2023PTC087178</h4> </div>
 
-                    {products.map((product) => (
+ <div className='col-span-4'><h4 className='text-white'>Mobile: +91-9829235735</h4></div>                   
+
+                     {/*{products.map((product) => (
                         <div key={product.id} className="group relative col-span-2">
                             <p className="text-white text-xl font-extrabold mb-9">{product.section}</p>
                             <ul>
@@ -67,7 +72,7 @@ const footer = () => {
                                 ))}
                             </ul>
                         </div>
-                    ))}
+                    ))}*/}
 
                 </div>
             </div>
@@ -78,7 +83,7 @@ const footer = () => {
                 <div className="pt-5 pb-5 px-4 sm:px-6 lg:px-4 border-solid border-t border-footer">
                     <div className="mt-4 grid grid-cols-1 gap-y-10 gap-x-16 sm:grid-cols-2 xl:gap-x-8">
                         <div>
-                            <h3 className='text-center md:text-start text-offwhite text-lg'>@2023 - All Rights Reserved by <Link href="https://adminmart.com/" target="_blank"> Adminmart.com</Link></h3>
+                            <h3 className='text-center md:text-start text-offwhite text-lg'>@2023 - All Rights Reserved by <Link href="https://TechDNA.com/"> TechDNA.Com - A Unit of Agroha Tech Ventures Pvt. Ltd.</Link></h3>
                         </div>
                         <div className="flex justify-center md:justify-end">
                             <Link href="/">

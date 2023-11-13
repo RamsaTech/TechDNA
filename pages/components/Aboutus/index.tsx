@@ -14,19 +14,19 @@ const Aboutdata: datatype[] = [
     {
         heading: "About us.",
         imgSrc: "/images/aboutus/imgOne.svg",
-        paragraph: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem',
+        paragraph: 'We are a dynamic startup transforming everyday computing with intuitive Software as a Service (SaaS) products. Our passionate team combines innovation with practicality, crafting solutions that enhance productivity for individuals and businesses alike.',
         link: 'Learn more'
     },
     {
         heading: "Services.",
         imgSrc: "/images/aboutus/imgTwo.svg",
-        paragraph: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem',
+        paragraph: 'While our focus is to devlop "off-the-shelf" Desktop and Web tools, we are open to discuss any promising innovative ideas for custom devlopment.',
         link: 'Learn more'
     },
     {
         heading: "Our Works.",
         imgSrc: "/images/aboutus/imgThree.svg",
-        paragraph: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem',
+        paragraph: 'We are a young startup and this website is still under devlopment,  portfolio will be updated soon',
         link: 'Learn more'
     },
 ]

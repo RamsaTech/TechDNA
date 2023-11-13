@@ -12,23 +12,23 @@ interface DataType {
 
 const postData: DataType[] = [
     {
-        profession: 'Co-founder',
-        name: 'John Doe',
+        profession: 'Founder',
+        name: 'Deepesh Agarwal',
         imgSrc: '/images/wework/avatar.svg',
     },
     {
         profession: 'Co-founder',
-        name: 'John Doe',
+        name: 'Renu Agarwal',
         imgSrc: '/images/wework/avatar3.svg',
     },
     {
         profession: 'Co-founder',
-        name: 'John Doe',
+        name: 'Ramesh Chandra',
         imgSrc: '/images/wework/avatar4.svg',
     },
     {
         profession: 'Co-founder',
-        name: 'John Doe',
+        name: 'Manjula Agarwal',
         imgSrc: '/images/wework/avatar.svg',
     },
     {
@@ -52,7 +52,7 @@ export default class MultipleItems extends Component {
         const settings = {
             dots: false,
             infinite: true,
-            slidesToShow: 5,
+            slidesToShow: 3,
             // centerMode: true,
             slidesToScroll: 1,
             arrows: false,
@@ -64,7 +64,7 @@ export default class MultipleItems extends Component {
                 {
                     breakpoint: 1200,
                     settings: {
-                        slidesToShow: 3,
+                        slidesToShow: 4,
                         slidesToScroll: 1,
                         infinite: true,
                         dots: false
