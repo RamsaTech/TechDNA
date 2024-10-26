@@ -89,6 +89,8 @@ const Contactusform = () => {
                                             </Link>
                                         </div>
                                         <p className="mb-8 lg:mb-16 mt-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Contact us now? Want to send us a feedback?</p>
+                                        <p className="mb-8 lg:mb-16 mt-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Call Mobile: +91-9829235735 or Email: info@techdna.com or submit the form below</p>
+                                        
                                         <form action="#" className="space-y-8" onSubmit={handleSubmit}>
                                             <div>
                                                 <label htmlFor="text" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Your Name</label>
