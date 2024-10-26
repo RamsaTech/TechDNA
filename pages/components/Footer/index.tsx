@@ -57,9 +57,9 @@ const footer = () => {
                     </div>
 
                     {/* CLOUMN-2/3 */}
-<div className='col-span-4'> <h4  className='text-white text-1xl font-semibold'>CIN: U46512RJ2023PTC087178</h4> <h4  className='text-white text-1xl font-semibold'>GST: U46512RJ2023PTC087178</h4> </div>
+<div className='col-span-4'> <h4  className='text-white text-1xl font-semibold'>CIN: U46512RJ2023PTC087178</h4> <h4  className='text-white text-1xl font-semibold'>GST: 08AAYCA5780A1ZD</h4> </div>
 
- <div className='col-span-4'><h4 className='text-white'>Mobile: +91-9829235735</h4></div>                   
+ <div className='col-span-4'><h4 className='text-white'>Mobile: +91-9829235735</h4><br/><h4 className='text-white'>Email: info@techdna.com</h4></div>                   
 
                      {/*{products.map((product) => (
                         <div key={product.id} className="group relative col-span-2">
