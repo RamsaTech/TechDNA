@@ -89,7 +89,15 @@ const Contactusform = () => {
                                             </Link>
                                         </div>
                                         <p className="mb-8 lg:mb-16 mt-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Contact us now? Want to send us a feedback?</p>
-                                        <p className="mb-8 lg:mb-16 mt-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Call Mobile: +91-9829235735 or Email: info@techdna.com or submit the form below</p>
+                                        <p className="mb-8 lg:mb-16 mt-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">
+Agroha Tech Ventures Pvt. Ltd.
+Reg. Address: D1, Temple, Vishvavidlya Puri Tonk Road, 
+Jaipur - 302015
+Rajasthan, India
+
+CIN: U46512RJ2023PTC087178
+GST: 08AAYCA5780A1ZD
+Call Mobile: +91-9829235735 or Email: info@techdna.com or submit the form below</p>
                                         
                                         <form action="#" className="space-y-8" onSubmit={handleSubmit}>
                                             <div>
