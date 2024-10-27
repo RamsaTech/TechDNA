@@ -85,20 +85,20 @@ const Contactusform = () => {
                                     <div className="py-8 lg:py-8 px-4 mx-auto max-w-screen-md">
                                         <div className="flex flex-shrink-0 items-center justify-center">
                                             <Link href="/" className='text-2xl sm:text-4xl font-semibold text-black'>
-                                                Agroha Tech Ventures
+                                                Agroha Tech Ventures Pvt. Ltd.
                                             </Link>
                                         </div>
-                                        <p className="mb-8 lg:mb-16 mt-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Contact us now? Want to send us a feedback?</p>
-                                        <p className="mb-8 lg:mb-16 mt-8 font-light text-left text-gray-500 dark:text-gray-400 sm:text-xl">
-Agroha Tech Ventures Pvt. Ltd.
-Reg. Address: D1, Temple, Vishvavidlya Puri Tonk Road, 
+                                        <p className="mb-8 lg:mb-16 mt-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Reg. Address: D1, Temple, Vishvavidlya Puri Tonk Road, 
 Jaipur - 302015
-Rajasthan, India
-</br>
+Rajasthan, India</p>
+                                        <p className="mb-8 lg:mb-16 mt-8 font-light text-left text-gray-500 dark:text-gray-400 sm:text-xl">
+
+<b><u>Our Goverment Registrations:</u></b>
 CIN: U46512RJ2023PTC087178
 GST: 08AAYCA5780A1ZD
-Call Mobile: +91-9829235735 or Email: info@techdna.com or submit the form below</p>
-                                        
+Call Mobile: +91-9829235735
+Email: info@techdna.com</p>
+                   <p className="mb-8 lg:mb-16 mt-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Submit the form below and we will get back to you...</p>                    
                                         <form action="#" className="space-y-8" onSubmit={handleSubmit}>
                                             <div>
                                                 <label htmlFor="text" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Your Name</label>
