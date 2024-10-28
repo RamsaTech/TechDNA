@@ -93,7 +93,7 @@ Jaipur - 302015
 Rajasthan, India</p>
                                         <p className="mb-8 lg:mb-16 mt-8 font-light text-left text-gray-500 dark:text-gray-400 sm:text-xl">
 
-<b><u>Our Goverment Registrations:</u></br>
+<b><u>Our Goverment Registrations:</u></b></br>
 CIN: U46512RJ2023PTC087178</br>
 GST: 08AAYCA5780A1ZD</br>
 Call Mobile: +91-9829235735</br>
